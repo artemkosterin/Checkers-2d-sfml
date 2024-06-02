@@ -1,0 +1,127 @@
+﻿  Checkers.cpp
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(19,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(19,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(29,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(29,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(60,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(62,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(67,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(69,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Checkers_on_board.h(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(95,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(95,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(97,107): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(97,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(99,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(100,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(109,107): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(109,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(113,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(114,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(140,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(140,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(142,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(142,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(145,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(145,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(147,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(147,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(152,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(152,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(154,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(154,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(157,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(157,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(159,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(159,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(170,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(170,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(171,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(171,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(172,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(172,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(174,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(174,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(180,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(180,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(181,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(181,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(182,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(182,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(184,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(184,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(190,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(190,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(191,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(191,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(192,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(192,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(194,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(194,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(200,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(200,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(201,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(201,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(202,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(202,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(204,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(204,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(218,132): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(218,90): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(247,23): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(247,28): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(247,33): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(247,38): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(249,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(250,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(254,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(254,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(260,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(260,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(284,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(285,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(287,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(287,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(293,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(293,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(317,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(318,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(320,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(320,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(326,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(326,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(350,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(351,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(353,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(353,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(359,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(359,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(395,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(396,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(413,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(414,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(431,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(432,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(449,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(450,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(469,131): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(469,89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(32): warning C4715: Game::centre_on_square: значение возвращается не при всех путях выполнения
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(390): warning C4715: Game::queen_square_for_move: значение возвращается не при всех путях выполнения
+  Сhecker.vcxproj -> C:\Users\artem\Desktop\Checkers-master\Debug\Сhecker.exe

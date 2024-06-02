@@ -1,0 +1,175 @@
+﻿  Checkers.cpp
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(19,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(19,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(29,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(29,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(60,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(62,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(67,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Board.h(69,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Checkers_on_board.h(21,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(95,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(95,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(97,107): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(97,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(99,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(100,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(109,107): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(109,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(113,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(114,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(146,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(146,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(148,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(148,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(151,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(151,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(153,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(153,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(158,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(158,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(160,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(160,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(163,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(163,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(165,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(165,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(176,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(176,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(177,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(177,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(178,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(178,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(180,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(180,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(186,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(186,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(187,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(187,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(188,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(188,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(190,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(190,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(196,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(196,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(197,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(197,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(198,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(198,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(200,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(200,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(206,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(206,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(207,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(207,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(208,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(208,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(210,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(210,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(224,132): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(224,90): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(253,23): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(253,28): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(253,33): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(253,38): warning C4838: Преобразование из "int" в "bool" требует сужающего преобразования.
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(255,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(256,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(260,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(260,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(266,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(266,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(290,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(291,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(293,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(293,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(299,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(299,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(323,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(324,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(326,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(326,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(332,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(332,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(356,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(357,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(359,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(359,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(365,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(365,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(401,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(402,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(419,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(420,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(437,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(438,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(455,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(456,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(475,131): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(475,89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(396): warning C4715: Game::queen_square_for_move: значение возвращается не при всех путях выполнения
+C:\Users\artem\Desktop\Checkers-master\Сhecker\Game.h(32): warning C4715: Game::centre_on_square: значение возвращается не при всех путях выполнения
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(wchar_t const *)" (__imp_??0String@sf@@QEAA@PEB_W@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z) в функции "public: void __cdecl Game::set_mause_position(class sf::RenderWindow &)" (?set_mause_position@Game@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) в функции main.
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) в функции "public: bool __cdecl Game::end_game(class sf::RenderWindow &,class sf::Event)" (?end_game@Game@@QEAA_NAEAVRenderWindow@sf@@VEvent@3@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) в функции main.
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) в функции "public: void __cdecl Game::error_choise_checker(class sf::RenderWindow &,class sf::Event)" (?error_choise_checker@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) в функции "public: void __cdecl Game::error_choise_checker(class sf::RenderWindow &,class sf::Event)" (?error_choise_checker@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) в функции "public: class sf::Vector2<float> __cdecl Checker::get_position(void)" (?get_position@Checker@@QEAA?AV?$Vector2@M@sf@@XZ).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) в функции "public: bool __cdecl Game::end_game(class sf::RenderWindow &,class sf::Event)" (?end_game@Game@@QEAA_NAEAVRenderWindow@sf@@VEvent@3@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ) в функции "int `public: __cdecl Checker::Checker(class dtor$0 const &)'::`1'::dtor$0" (?dtor$0@?0???0Checker@@QEAA@AEBV0@@Z@4HA).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(class sf::CircleShape const &)" (__imp_??0CircleShape@sf@@QEAA@AEBV01@@Z) в функции "public: __cdecl Checker::Checker(class Checker const &)" (??0Checker@@QEAA@AEBV0@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QEAA@AEBV01@@Z) в функции "public: __cdecl Checker::Checker(class Checker const &)" (??0Checker@@QEAA@AEBV0@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) в функции "int `public: __cdecl Checker::Checker(float,float,bool)'::`1'::dtor$1" (?dtor$1@?0???0Checker@@QEAA@MM_N@Z@4HA).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) в функции "public: void __cdecl Checker::draw_checker(class sf::RenderWindow &)" (?draw_checker@Checker@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QEAAAEAV01@AEBV01@@Z) в функции "public: class Checker __cdecl Checker::operator=(class Checker)" (??4Checker@@QEAA?AV0@V0@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z) в функции "public: __cdecl Square::Square(void)" (??0Square@@QEAA@XZ).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) в функции "public: __cdecl Square::~Square(void)" (??1Square@@QEAA@XZ).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) в функции "public: void __cdecl Game::start_game(class sf::RenderWindow &,class sf::Event,bool &)" (?start_game@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@AEA_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) в функции main.
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) в функции main.
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ) в функции "public: __cdecl Checker::Checker(float,float,bool)" (??0Checker@@QEAA@MM_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) в функции "public: void __cdecl Checker::draw_checker(class sf::RenderWindow &)" (?draw_checker@Checker@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z) в функции "public: void __cdecl Checker::draw_checker(class sf::RenderWindow &)" (?draw_checker@Checker@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ) в функции "int `public: __cdecl Checker::Checker(float,float,bool)'::`1'::dtor$2" (?dtor$2@?0???0Checker@@QEAA@MM_N@Z@4HA).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z) в функции "public: __cdecl Checker::Checker(class Checker const &)" (??0Checker@@QEAA@AEBV0@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z) в функции "public: class Checker __cdecl Checker::operator=(class Checker)" (??4Checker@@QEAA?AV0@V0@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) в функции "public: void __cdecl Game::start_game(class sf::RenderWindow &,class sf::Event,bool &)" (?start_game@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@AEA_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::String const &,class sf::Font const &,unsigned int)" (__imp_??0Text@sf@@QEAA@AEBVString@1@AEBVFont@1@I@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QEAAXI@Z) в функции "public: void __cdecl Game::start_game(class sf::RenderWindow &,class sf::Event,bool &)" (?start_game@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@AEA_N@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) в функции "public: virtual void * __cdecl sf::Text::`scalar deleting destructor'(unsigned int)" (??_GText@sf@@UEAAPEAXI@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Text & __cdecl sf::Text::operator=(class sf::Text &&)" (__imp_??4Text@sf@@QEAAAEAV01@$$QEAV01@@Z) в функции "public: void __cdecl Game::start_game(class sf::RenderWindow &,class sf::Event,bool &)" (?start_game@Game@@QEAAXAEAVRenderWindow@sf@@VEvent@3@AEA_N@Z).
+Checkers.obj : error LNK2001: неразрешенный внешний символ "private: virtual void __cdecl sf::Text::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Text@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+Checkers.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B) в функции "public: void __cdecl Board::draw_board(class sf::RenderWindow &)" (?draw_board@Board@@QEAAXAEAVRenderWindow@sf@@@Z).
+C:\Users\artem\Desktop\Checkers-master\x64\Debug\Сhecker.exe : fatal error LNK1120: неразрешенных внешних элементов: 48
